@@ -2,7 +2,7 @@
 
 ## Contributing Programers / Artists ##
 
-**Matthew Ragan** | raganmd@gmail.com |[ matthewragan.com](http://matthewragan.com)  
+**Matthew Ragan** |[ matthewragan.com](http://matthewragan.com)  
 
 ## Overview ##
 
