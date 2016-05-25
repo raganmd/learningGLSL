@@ -1,31 +1,13 @@
-# Name of Project #
----
-## Name of TOX ##
+# Learning GLSL for TouchDesigner #
 
-### Name of Developer ###
-_contact email for developer_
+## Contributing Programers / Artists ##
 
----
-## Summary ##
+**Matthew Ragan** |[ matthewragan.com](http://matthewragan.com)  
 
-A summary of the form and fucntion of the TOX - broad strokes about how / wy it works the way it does.
+## Overview ##
 
+Working with real time media means learning the best methods for rendering, effect generation, and image manipulation. This has quickly become the realm of the GPU, and as such learning the ins and outs of shaders is tremendously important. This code repository is my stumbling through learning GLSL in TouchDesigner - taking notes, making examples, and beating my head against these ideas until they stick.
 
-## Color Key ##
-A break down of the color coding method used for 
+Follow along, or look through some examples if you're hungry for the same things.
 
-
-## Storage Notes ##
-
-Notes here as appropriate about key value pairs placed in or available from storage
-
-
-## Major Components ##
-* **Instances** - descriptions 
-* **Textures** - descriptions 
-* **Logic Structures** - descriptions 
-* **Renering Strucutres** - descriptions 
-
-
-## Extenstions or Modules on Demand ##
-A list of methods / functions available from the TOX
+Happy Programming.
