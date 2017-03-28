@@ -2,8 +2,8 @@
 
 ## Contributing Programers / Artists ##
 
-**Matthew Ragan** |[ matthewragan.com](http://matthewragan.com)  
-**VINCENT HOUZÉ** |[foliativ](http://www.foliativ.net/)
+**Matthew Ragan** |[ matthewragan.com ](http://matthewragan.com)  
+**VINCENT HOUZÉ** |[ foliativ ](http://www.foliativ.net/)
 
 ## Overview ##
 
