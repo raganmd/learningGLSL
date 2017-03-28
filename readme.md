@@ -3,6 +3,7 @@
 ## Contributing Programers / Artists ##
 
 **Matthew Ragan** |[ matthewragan.com](http://matthewragan.com)  
+**VINCENT HOUZÉ** |[http://www.foliativ.net/]
 
 ## Overview ##
 
@@ -11,3 +12,5 @@ Working with real time media means learning the best methods for rendering, effe
 Follow along, or look through some examples if you're hungry for the same things.
 
 Happy Programming.
+
+Many thanks to Vincent for his examples on the TouchDesigner forum, the example toe file you find here largely breaks in 099, but but it was invaluable when I was first trying to wrap my head around some of the pieces that GLSL materials work.
