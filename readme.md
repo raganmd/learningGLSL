@@ -3,8 +3,8 @@
 ## Contributing Programers / Artists ##
 
 **Matthew Ragan** |[ matthewragan.com ](http://matthewragan.com)  
-**VINCENT HOUZÉ** |[ foliativ ](http://www.foliativ.net/)
-**Mike Walczyk**  |[ michaelwalczyk.com ](http://www.michaelwalczyk.com/)
+**VINCENT HOUZÉ** |[ foliativ ](http://www.foliativ.net/)  
+**Mike Walczyk**  |[ michaelwalczyk.com ](http://www.michaelwalczyk.com/)  
 
 ## Overview ##
 
