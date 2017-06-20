@@ -29,3 +29,6 @@ Happy Programming.
 Many thanks to Vincent for his examples on the TouchDesigner forum, the example toe file you find here largely breaks in 099, but but it was invaluable when I was first trying to wrap my head around some of the pieces that GLSL materials work.
 
 Many thanks to Mike for his continual help as I ask questions about all things GLSL. Especially his contrabution of a look at deferred lighting in TouchDesigner.
+
+## GLSL Semantics
+
