@@ -30,5 +30,6 @@ Many thanks to Vincent for his examples on the TouchDesigner forum, the example 
 
 Many thanks to Mike for his continual help as I ask questions about all things GLSL. Especially his contrabution of a look at deferred lighting in TouchDesigner.
 
-## GLSL Semantics
+## Changes ## 
 
+If you find yourself wondering where the Book of Shaders examples went, have no fear, they just got moved to their own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
