@@ -33,3 +33,7 @@ Many thanks to Mike for his continual help as I ask questions about all things G
 ## Changes ## 
 
 If you find yourself wondering where the Book of Shaders examples went, have no fear, they just got moved to their own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
+
+## Quick test
+
+<script src="https://embed.cacher.io/d6523fd60e31af49a8fc16930b794bf67f58af43.js?a=f3c1a543b57c3fed13fb568c359b7003&t=agate"></script>
