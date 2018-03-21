@@ -31,7 +31,5 @@ Many thanks to Vincent for his examples on the TouchDesigner forum, the example 
 Many thanks to Mike for his continual help as I ask questions about all things GLSL. Especially his contrabution of a look at deferred lighting in TouchDesigner.
 
 ## Changes ## 
-
-Book of Shaders moved to its own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
-
-Deferred Lighting moved to its own repo. You can find it here - [Deferred Lighting in TouchDesigner](https://github.com/raganmd/touchdesigner-deferred-lighting).
+* Book of Shaders moved to its own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
+* Deferred Lighting moved to its own repo. You can find it here - [Deferred Lighting in TouchDesigner](https://github.com/raganmd/touchdesigner-deferred-lighting).
