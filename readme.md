@@ -32,4 +32,6 @@ Many thanks to Mike for his continual help as I ask questions about all things G
 
 ## Changes ## 
 
-If you find yourself wondering where the Book of Shaders examples went, have no fear, they just got moved to their own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
+Book of Shaders moved to its own repo. You can find it here - [Book of Shaders in TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner).
+
+Deferred Lighting moved to its own repo. You can find it here - [Deferred Lighting in TouchDesigner](https://github.com/raganmd/touchdesigner-deferred-lighting).
