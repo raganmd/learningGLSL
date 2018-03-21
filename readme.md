@@ -12,7 +12,7 @@ All work in this repo is being done in TouchDesigner 099.
 
 There's a change in some of how glsl is used in 099 vs. 088. If you've done some GL work in 088, and are just moving over to 099 it's worth taking a look at:  
 
-*[Write a GLSL TOP](https://www.derivative.ca/wiki099/index.php?title=Write_a_GLSL_TOP)
+* [Write a GLSL TOP](https://www.derivative.ca/wiki099/index.php?title=Write_a_GLSL_TOP)
 * [Write a GLSL Material](https://www.derivative.ca/wiki099/index.php?title=GLSL_Material_Writing_Guide)
 
 To learn more about TouchDesigner vist [Derivative.ca](http://derivative.ca/)
